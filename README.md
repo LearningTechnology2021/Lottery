@@ -57,5 +57,5 @@ and usage of the output in the deployment.
 
 ---
 
-[Link to deployed Lottery contract(https://learning-technology.co.uk/Crypto/Lottery/)
+[Link to deployed Lottery contract](https://learning-technology.co.uk/Crypto/Lottery/)
 
