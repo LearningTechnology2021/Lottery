@@ -1,5 +1,5 @@
-# *Lottery*
-##This repository holds the Lottery DApp created and deployed to the Goerli testnet you can see the link below
+# **Lottery**
+## This repository holds the Lottery DApp created and deployed to the Goerli testnet you can see the link below
 ---
 All the file are split in the two main directories
 - lottery
@@ -7,7 +7,7 @@ All the file are split in the two main directories
 
 This keeps the front end and solidity code nice and seperate
 ---
-#Lottery files 
+# Lottery files 
 
 *package.json*
 holds the dependancies for this project and can be utilized to install necessary artefacts
